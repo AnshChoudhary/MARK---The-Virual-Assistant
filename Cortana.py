@@ -5,26 +5,6 @@ a = input('Enter your name:')
 print ('Hello',a)
 print ("I am your personal assistant 'Cortana'. Its nice to meet you!")
 
-for q in range(1,1000000):
-    Username = input("Enter username:")
-    if Username == "Ansh" or "administrator":
-        if Username == "Ansh":
-            for i in range(1000000):
-                Password = input("Enter Password:")
-                if Password == "mark1902":
-                    print("Welcome Ansh!")
-                    break 
-        elif Username == "administrator":
-            for i in range(1000000):
-                Password = input("Enter Password:")
-                if Password == "1902":
-                    print("Welcome administrator!")
-                    break
-        break
-    else:
-        print("Enter the correct Username")
-
-
 for i in range (1,1000000):
     r = sr.Recognizer()
     with sr.Microphone() as source:
