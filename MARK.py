@@ -5,11 +5,11 @@ from os import popen
 
 print("Hello!")
 engine = tts.init()
-engine.say('Hello. I am your personal assistant. How can I help you?')
+engine.say('Hello. I am your personal assistant, Zira. How can I help you?')
 engine.runAndWait()
 
 ansh = "1010"
-print("Voice actication required")
+print("Voice activation required")
 while ansh == "1010":
     r = sr.Recognizer()
     with sr.Microphone() as source:
@@ -17,9 +17,9 @@ while ansh == "1010":
         try:
             text = r.recognize_google(audio)
         except:
-            text = "not point break"
+            text = "thor"
 
-    while text == "point break":
+    while text == "point break" or text == "hey zira":
             engine = tts.init()
             engine.say('Yes sir')
             engine.runAndWait()        
