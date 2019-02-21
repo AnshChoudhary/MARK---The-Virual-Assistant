@@ -14,7 +14,7 @@ Say "hi there" (wait for double beep) then...
 
 Don't like the name "ZIRA"? Change it to anything you want, like "Jarvis" or "Karen".
 
-# Prerequisites 
+## Prerequisites 
 speech_recognition 
 webbrowser
 pyttsx3 
