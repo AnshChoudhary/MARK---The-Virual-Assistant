@@ -45,3 +45,4 @@ Don't like the name "ZIRA"? Change it to anything you want, like "Jarvis" or "Ka
 - pyttsx3 
 - playsound
 - os
+- spotdl
