@@ -29,6 +29,7 @@ Say "hi there" (wait for double beep) then...
 - "Define [machine learning]"
 - "knock knock"
 - "Open facebook.com"
+- or anything else!
 
 Don't like the name "ZIRA"? Change it to anything you want, like "Jarvis" or "Karen".
 
