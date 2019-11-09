@@ -4,9 +4,25 @@ ZIRA is a virtual assistant created by Ansh Choudhary. The assistant uses voice 
 
 ## Usage Examples:
 -----------------------
-Say "hi there" (wait for double beep) then...
+Now you can do the following with the updated ZIRA:
+- Send e-mails
+- Download songs
+- Play songs on Spotify
+- Locate a place using Google Maps
+- Search on Google directly
+- Take notes
+- Start a stopwatch
+- Have fun conversations with ZIRA
+- Ask ZIRA ANYTHING AT ALL!
 
+Say "hi there" (wait for double beep) then...
+- "send a mail"
+- "download song"
+- "take notes"
+- "search on Google"
+- "locate a place"
 - "Play some music" 
+- "start stopwatch"
 - "Give me menu ideas" 
 - "open spotify"
 - "what is the meaning of life?"
@@ -20,6 +36,12 @@ Don't like the name "ZIRA"? Change it to anything you want, like "Jarvis" or "Ka
 --------------------
 - speech_recognition 
 - webbrowser
+- yagmail
+- pygame
+- sys
+- subprocess
+- keyboard
+- stopwatch
 - pyttsx3 
 - playsound
 - os
