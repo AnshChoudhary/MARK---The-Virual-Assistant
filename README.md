@@ -1,6 +1,8 @@
+![ZIRA](https://github.com/AnshChoudhary/ZIRA---The-Virual-Assistant/blob/master/Apollo.png)
+
 # ZIRA
 ---------
-![ZIRA](https://github.com/AnshChoudhary/ZIRA---The-Virual-Assistant/blob/master/Apollo.png)
+
 ZIRA is a virtual assistant created by Ansh Choudhary. The assistant uses voice queries and a natural-language user interface to answer questions, make recommendations, and perform actions by delegating requests to a set of Internet services. 
 
 ## Usage Examples:
